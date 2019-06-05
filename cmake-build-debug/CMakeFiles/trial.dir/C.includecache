@@ -9,8 +9,12 @@
 C:/Users/BACTOR/CLionProjects/trial/main.c
 stdio.h
 -
+stdlib.h
+-
 math.h
 -
 minmax.h
+-
+mem.h
 -
 
